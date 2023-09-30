@@ -28,24 +28,6 @@ This plugin provides a seamless way to restrict access to product prices and the
 
 No screenshots are available for this plugin, as it primarily affects the behavior of your WooCommerce store.
 
-## Frequently Asked Questions
-
-### Can I customize the appearance of hidden elements?
-
-Yes, you can customize the appearance of hidden elements by modifying the plugin's code in the `custom-hide-price-and-cart.php` file. Please consult the plugin documentation for more information.
-
-### Is this plugin compatible with the latest version of WooCommerce?
-
-This plugin is designed to work with WooCommerce. However, it's essential to keep both WooCommerce and this plugin up to date to ensure compatibility.
-
-## Support
-
-If you encounter any issues or have questions related to this plugin, please reach out to our support team at [support@example.com](mailto:support@example.com).
-
-## Contribute
-
-We welcome contributions to improve this plugin. If you're interested in contributing, please visit our GitHub repository: [https://github.com/yourusername/custom-hide-price-and-cart](https://github.com/yourusername/custom-hide-price-and-cart)
-
 ## License
 
 This plugin is released under the [GNU General Public License v2.0](LICENSE.txt).
